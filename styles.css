@@ -1,0 +1,133 @@
+body {
+  padding: 20px;
+  background-color: #1c1c1c;
+  color:white;
+ 
+}
+ul {
+  display: flex;
+  justify-content:space-between;
+  list-style: none;
+  text-align: center;
+  font-family:Arial;
+}
+a {
+  color:white;
+  text-decoration: none;
+}
+.Ricardo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border:5px solid  #add8e6;
+  
+}
+.center {
+  text-align: center;
+}
+.nome {
+  font-family: Sans-Serif;
+  color: #add8e6;
+  text-align: left;
+  
+}
+.profissao {
+  font-family: Arial;
+  
+}
+.maquiagem {
+  font-family: Sans-Serif;
+  text-align: center;
+ 
+}
+.Ricardo {
+  text-align: center;
+}
+.imgmaquiagem {
+  width:230px;
+  height: 230px;
+  border:3px solid silver;
+  
+}
+.center01 {
+  text-align: center;
+}
+.sabor {
+  text-align: center;
+}
+.imgsabor {
+  width: 230px;
+  height: 230px;
+  border:3px solid silver;
+ 
+}
+.saboroso {
+  font-family: Sans-Serif;
+  text-align: center;
+}
+.logo {
+  font-family: Sans-Serif;
+  text-align: center;
+}
+.imglogo {
+  width: 230px;
+  height: 230px;
+  border:3px solid silver;
+}
+.logotipo {
+  text-align: center;
+}
+.engenharia {
+  font-family: Sans-Serif;
+  text-align: center;
+}
+.ENGENHARIA {
+  text-align: center;
+}
+.imgengenharia {
+  width: 230px;
+  height: 230px;
+  border:3px solid silver;
+}
+.suculencia {
+  font-family: Sans-Serif;
+  text-align: center;
+}
+.SUCULENCIA {
+  text-align: center;
+}
+.imgsuculencia {
+  width: 230px;
+  height: 230px;
+  border:3px solid silver;
+}
+.hojetem {
+  font-family: Sans-Serif;
+  text-align-last: center;
+}
+.HOJETEM {
+  text-align: center;
+}
+.imghojetem {
+  width: 230px;
+  height: 230px;
+  border:3px solid silver;
+}
+footer img {
+  width:40px;
+  height: 40px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+footer a {
+  margin:20px;
+  text-align: center;
+}
+footer p {
+  margin-top: 2px;
+}
+nav a:hover {
+  color: #add8e6;
+}
